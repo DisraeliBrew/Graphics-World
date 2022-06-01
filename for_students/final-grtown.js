@@ -17,8 +17,6 @@
  import * as T from "../libs/CS559-Three/build/three.module.js";
 import { GrWorld } from "../libs/CS559-Framework/GrWorld.js";
 import { WorldUI } from "../libs/CS559-Framework/WorldUI.js";
-//import { GroundTerrain } from "./objects/terrain.js";
-import {main} from "../examples/main.js";
 import {mainStudent} from "./functions/MainStudent.js"
 import { Scene } from "../libs/CS559-Three/build/three.module.js";
 /**m

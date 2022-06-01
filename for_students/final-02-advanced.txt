@@ -1,0 +1,4 @@
+Advanced Thing:
+ 1. Procedurally placed and generated vegetation (the trunks and the leaf geometry attributes are randomized, along with their placement)
+ 2. Video Screens showing drone footage and ground camera footage using multi pass rendering.
+ 3. Water shader simulating caustics

@@ -1,0 +1,29 @@
+(Required) Two kinds of objects created for this assignment:
+1. Girrafe
+2. Tents
+
+(Required) Five other kinds of objects that you created (possibly in previous assignments):
+3. Procedurally generated/placed Pine trees
+4. Procedurally generated/placed shrubs
+5. Video screens
+6. Drone
+7. The Pond
+
+(Optional) Backup Objects (more objects that you created, in case the ones above don't count):
+- ???
+- ???
+- ???
+
+At least on of each type of object:
+Building/structure: Tent
+Vehicle: Jeep/Drone
+Natural Element: Water (the pond)
+
+Object loaded from a model file:
+Model: Camera on Tripod
+
+An object with a shader that you wrote:
+ShaderObj: The Pond
+
+Other Objects that you would like to note:
+???

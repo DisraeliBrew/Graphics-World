@@ -1,0 +1,14 @@
+Three different behaviors that you made:
+1. Drone Flying 
+2. Girrafe Moving its head/neck
+3. 
+
+One behavior that is not simple:
+Not simple: The giraffe
+
+Animated Articulated Figure:
+Articulated: Girraffe
+
+Other Behaviors that you made: (backup in case something above doesn't count)
+- ???
+- ???

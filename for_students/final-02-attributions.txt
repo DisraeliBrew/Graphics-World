@@ -1,0 +1,9 @@
+List all attributions here, this include "self-attributions":
+ground texture from: https://polyhaven.com/a/forest_leaves_02
+skybox from: https://polyhaven.com/a/kloppenheim_01
+tree bark : https://polyhaven.com/a/bark_brown_02
+camera model: https://rigmodels.com/model.php?view=Camera-3d-model__7WSLWPG7ZGVUXV18PUHLN2G4N
+jeep model: https://rigmodels.com/model.php?view=Military_Jeep-3d-model__FZNXO1SP4BVIS67EOL2SY396D&searchkeyword=jeep
+giraffe texture: https://www.dreamstime.com/stock-illustration-giraffe-texture-vector-illustration-image58339654
+drone is from Workbook 8 with some minor modifications to the design (and the added camera)
+???

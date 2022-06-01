@@ -90,7 +90,7 @@ export class Pond extends GrObject{
         //console.log(params.time);
         //let frag = new T.Shader
         //this.time = 0;
-        let shaderMat = shaderMaterial("./shaders/water2/vertex.glsl","./shaders/water2/fragment.glsl",{
+        let shaderMat = shaderMaterial("../shaders/water2/vertex.glsl","./shaders/water2/fragment.glsl",{
             uniforms:{
                 timeD:{value:0}
             },
@@ -125,9 +125,9 @@ export class Pond extends GrObject{
     
 
 }
-let map = new T.TextureLoader().load("textures/bark_textures/textures/bark_brown_02_diff_2k.jpg")
-let normal = new T.TextureLoader().load("textures/bark_textures/textures/bark_brown_02_nor_dx_2k.jpg")
-let rough = new T.TextureLoader().load("textures/bark_textures/textures/bark_brown_02_rough_2k.jpg")
+let map = new T.TextureLoader().load("../textures/bark_textures/textures/bark_brown_02_diff_2k.jpg")
+let normal = new T.TextureLoader().load("../textures/bark_textures/textures/bark_brown_02_nor_dx_2k.jpg")
+let rough = new T.TextureLoader().load("../textures/bark_textures/textures/bark_brown_02_rough_2k.jpg")
 
 class Tree extends Object3D{
     constructor(params) {
